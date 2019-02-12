@@ -3,3 +3,5 @@ This is Java application connect to MySQL database to input or display the items
 
 mysql-connector-java-5.1.23-bin.jar is required to add into library of project in order to connect to sql database
 
+shopping_list_db is the database I used, the database I used is XAMPP
+
